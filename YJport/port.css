@@ -1,0 +1,37 @@
+.head-title {
+  color: #6c757d;
+}
+#container {
+  box-sizing: border-box;
+  text-align: center;
+  width: 100%;
+  padding: 120px;
+  background-image: url(https://st4.depositphotos.com/1071909/30078/i/600/depositphotos_300786376-stock-photo-coach-motivate-to-personal-development.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0%;
+}
+.main-title {
+  color: aliceblue;
+}
+.main-line {
+  width: 20.25rem;
+
+  margin: 1.5rem auto;
+  border: none;
+  border-top: 0.2rem solid #0062ff;
+}
+.main-subtitle {
+  color: #000000;
+  font-size: large;
+}
+.btn-main {
+  background-color: rgb(39, 46, 248);
+  color: white;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 20px;
+  margin-top: 80px;
+  font-size: 16px;
+  cursor: pointer;
+}
