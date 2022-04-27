@@ -53,3 +53,12 @@
   max-width: 28%;
   border-radius: 10px;
 }
+.skill {
+  text-align: center;
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+.skill-image {
+  display: flex;
+  height: 250px;
+}
