@@ -36,6 +36,12 @@
   font-size: 16px;
   cursor: pointer;
 }
+.title {
+  text-align: center;
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+
 .about-me {
   background-color: rgb(184, 228, 249);
   text-align: center;
@@ -46,9 +52,6 @@
   padding: 20px 0px;
 }
 
-.main-title {
-  display: inline-block;
-}
 .main-picture {
   max-width: 28%;
   border-radius: 10px;
@@ -61,4 +64,7 @@
 .skill-image {
   display: flex;
   height: 250px;
+}
+.js-project {
+  height: 500px;
 }

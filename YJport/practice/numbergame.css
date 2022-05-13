@@ -73,15 +73,15 @@ button {
 }
 @media screen and (max-width: 48rem) {
   .pre-title {
-    font-size: 10vh;
+    font-size: 10vw;
   }
   .title {
-    font-size: 12vh;
+    font-size: 12vw;
   }
   .sub-title {
-    font-size: 11vh;
+    font-size: 11vw;
   }
-  .control {
+  .form-control {
     font-size: 8vw;
     max-width: 500px;
     margin-right: 0px;
@@ -89,8 +89,8 @@ button {
   .main-img {
     width: 40vw;
   }
-  .btn-reset {
-    font-size: 5vh;
+  .button-reset {
+    font-size: 5vw;
     width: 80px;
     height: 60px;
   }
