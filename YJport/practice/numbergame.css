@@ -1,0 +1,97 @@
+body {
+  background-size: cover;
+  height: 130vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "East Sea Dokdo", cursive;
+  background-image: url(http://img.newspim.com/news/2017/01/16/1701161602110570.jpg);
+}
+
+button {
+  font-family: "East Sea Dokdo", cursive;
+}
+
+.container {
+  border: 10px solid white;
+  border-radius: 20px;
+  text-align: center;
+  width: 650px;
+  background-color: rgba(247, 243, 242, 0.7);
+}
+.btn-go {
+  height: 80px;
+  width: 100px;
+  margin-top: 5px;
+  border: green;
+  border-radius: 50px;
+  font-size: 30pt;
+  font-weight: bold;
+  color: white;
+  background-color: green;
+}
+.btn-reset {
+  height: 80px;
+  width: 100px;
+  margin-top: 5px;
+  border: green;
+  border-radius: 50px;
+  font-size: 30pt;
+  font-weight: bold;
+  color: black;
+  background-color: rgb(227, 210, 23);
+}
+
+.pre-title {
+  font-size: 5vw;
+  font-weight: bold;
+  color: blue;
+}
+.title {
+  font-size: 7vw;
+  font-weight: bold;
+}
+.sub-title {
+  font-size: 6vw;
+  font-weight: bold;
+}
+.main-img {
+  width: 20vw;
+  height: 20vh;
+}
+.red-text {
+  color: red;
+}
+.control {
+  height: 60px;
+  font-size: 3vw;
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align: center;
+  font-family: "East Sea Dokdo", cursive;
+}
+@media screen and (max-width: 48rem) {
+  .pre-title {
+    font-size: 10vh;
+  }
+  .title {
+    font-size: 12vh;
+  }
+  .sub-title {
+    font-size: 11vh;
+  }
+  .control {
+    font-size: 8vw;
+    max-width: 500px;
+    margin-right: 0px;
+  }
+  .main-img {
+    width: 40vw;
+  }
+  .btn-reset {
+    font-size: 5vh;
+    width: 80px;
+    height: 60px;
+  }
+}
