@@ -71,9 +71,9 @@ button {
   text-align: center;
   font-family: "East Sea Dokdo", cursive;
 }
-@media screen and (max-width: 48rem) {
+@media screen and (max-width: 44rem) {
   .pre-title {
-    font-size: 10vw;
+    font-size: 15vw;
   }
   .title {
     font-size: 12vw;
