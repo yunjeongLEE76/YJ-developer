@@ -7,7 +7,7 @@
   text-align: center;
   width: 100%;
   padding: 120px;
-  background-image: url(https://st4.depositphotos.com/1071909/30078/i/600/depositphotos_300786376-stock-photo-coach-motivate-to-personal-development.jpg);
+  background-image: url(./portfolio_main.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 0%;
@@ -20,14 +20,14 @@
 
   margin: 1.5rem auto;
   border: none;
-  border-top: 0.2rem solid #0062ff;
+  border-top: 0.2rem solid rgb(106, 186, 111);
 }
 .header-subtitle {
   color: #000000;
   font-size: large;
 }
 .btn-header {
-  background-color: rgb(39, 46, 248);
+  background-color: rgb(106, 186, 111);
   color: white;
   padding: 1rem 2rem;
   border: none;
